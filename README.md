@@ -1,5 +1,5 @@
 # Hi, I'm **Samarth Bevinakatti** 👨‍💻
-A passionate **MERN Stack Developer** and BCA student who loves building full-stack web applications.<br><br>- 🔭 Currently working on **real-world MERN projects**<br>- 🌱 Learning **advanced React, Node.js & MongoDB**<br>- 💡 Interested in **clean UI, scalable backend & REST APIs**<br>- 🚀 Goal: Become a skilled **Full-Stack Software Engineer**<br>- 📫 Reach me at: **your-email@example.com**<br>
+A passionate **MERN Stack Developer** and BCA student who loves building full-stack web applications.<br><br>- 🔭 Currently working on **real-world MERN projects**<br>- 🌱 Learning **advanced React, Node.js & MongoDB**<br>- 💡 Interested in **clean UI, scalable backend & REST APIs**<br>- 🚀 Goal: Become a skilled **Full-Stack Software Engineer**
 
 
 ## 🌐 Socials:
